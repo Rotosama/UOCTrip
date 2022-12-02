@@ -1,0 +1,13 @@
+# Level 2
+
+# rows and cols
+4
+
+# difficulty
+JUNIOR
+
+# map
+g·F·
+··V·
+r·L·
+SH··

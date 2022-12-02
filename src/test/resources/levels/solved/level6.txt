@@ -1,0 +1,14 @@
+# Level 6
+
+# rows and cols
+5
+
+# difficulty
+MASTER
+
+# map
+·F·MM
+·Rl·M
+·rL··
+~V~~~
+·S·MM

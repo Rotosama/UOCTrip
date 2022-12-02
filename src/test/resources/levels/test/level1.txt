@@ -1,0 +1,13 @@
+# Level 1
+
+# rows and cols
+4
+
+# difficulty
+STARTER
+
+# map
+F·~·
+rlHG
+R·Rl
+·M·S

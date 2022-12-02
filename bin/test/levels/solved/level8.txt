@@ -1,0 +1,15 @@
+# Level 8 - It cannot be shown in the GUI App because the board are too big.
+
+# rows and cols
+6
+
+# difficulty
+MASTER
+
+# map
+·F·MM·
+·Rl·M·
+·rL···
+~V~~~~
+rLM·MM
+S··MM·

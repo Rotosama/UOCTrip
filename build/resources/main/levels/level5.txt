@@ -1,0 +1,13 @@
+# Level 5
+
+# rows and cols
+4
+
+# difficulty
+EXPERT
+
+# map
+FM·R
+·M·M
+VH·l
+HM·S

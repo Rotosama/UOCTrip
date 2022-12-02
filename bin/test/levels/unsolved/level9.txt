@@ -1,0 +1,15 @@
+# Level 9 - It cannot be shown in the GUI App because the board are too big.
+
+# rows and cols
+6
+
+# difficulty
+WIZARD
+
+# map
+L··MLF
+·M··H·
+·H····
+····V·
+·g·rr·
+·S····

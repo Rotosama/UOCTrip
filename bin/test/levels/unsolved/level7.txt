@@ -1,0 +1,14 @@
+# Level 7
+
+# rows and cols
+5
+
+# difficulty
+WIZARD
+
+# map
+··MLF
+M··H·
+H··g·
+··rr·
+S···L

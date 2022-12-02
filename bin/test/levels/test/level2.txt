@@ -1,0 +1,13 @@
+# Level 2 - It is the same as level1.txt
+
+# rows and cols
+4
+
+# difficulty
+STARTER
+
+# map
+F·~·
+rlHG
+R·Rl
+·M·S

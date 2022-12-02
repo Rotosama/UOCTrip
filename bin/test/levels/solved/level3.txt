@@ -1,0 +1,13 @@
+# Level 3
+
+# rows and cols
+4
+
+# difficulty
+JUNIOR
+
+# map
+MMF·
+~~VM
+rHLl
+SM··
